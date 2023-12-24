@@ -1,8 +1,6 @@
 # Text-Summarizer
 Certainly! Here's a sample README file for a text summarizer:
 
---
-
 ## Overview
 
 This Python-based text summarizer is designed to condense lengthy documents or articles into shorter, coherent summaries. It utilizes natural language processing techniques to extract key information and generate concise summaries while preserving the essential content.
