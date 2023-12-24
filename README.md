@@ -1,5 +1,5 @@
 # Text-Summarizer
-Certainly! Here's a sample README file for a text summarizer:
+
 
 ## Overview
 
